@@ -71,8 +71,8 @@ scheme: Mist
 #  - always  expand for all pages automatically
 #  - hide    expand only when click on the sidebar toggle icon.
 #  - remove  Totally remove sidebar including sidebar toggle icon.
-#sidebar: post
-sidebar: always
+sidebar: post
+#sidebar: always
 #sidebar: hide
 #sidebar: remove
 
@@ -163,7 +163,7 @@ mathjax:
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 41afa45b572a6a266244a9b7bfd0c6f8
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -172,14 +172,14 @@ mathjax:
 #disqus_shortname:
 
 # Share
-#jiathis:
+jiathis:
 
 # Share
 #duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: wC13vXoXqQbguAs_aa6p76lce_y4EPAH_i0u2jP9DoM
 
 
 # Google Analytics
