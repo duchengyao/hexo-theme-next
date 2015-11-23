@@ -103,7 +103,7 @@ avatar: http://7xlieb.com1.z0.glb.clouddn.com/Blog_avatar.jpg
 
 # TOC in the Sidebar
 toc:
-  enable: true
+  enable: false
 
   # Automatically add list number to toc.
   number: true
@@ -113,7 +113,7 @@ toc:
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
-#creative_commons:
+creative_commons: by-sa
 
 
 
