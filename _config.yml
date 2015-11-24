@@ -13,11 +13,6 @@ keywords: "S1NH,程序员吐槽师"
 # Set rss to specific value if you have burned your feed already.
 rss:
 
-# Specify the date when the site was setup
-#since: 2015
-
-
-
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -94,13 +89,6 @@ social_icons:
 # Sidebar Avatar
 avatar: http://7xlieb.com1.z0.glb.clouddn.com/Blog_avatar.jpg
 
-
-# Social links
-# social:
-  #GitHub:
-  #Others:
-
-
 # TOC in the Sidebar
 toc:
   enable: false
@@ -114,8 +102,6 @@ toc:
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
 creative_commons: by-sa
-
-
 
 
 # ---------------------------------------------------------------
@@ -204,12 +190,6 @@ facebook_sdk:
   fb_admin:     #<user_id>
   like_button:  #true
   webmaster:    #true
-
-
-
-
-
-
 
 
 
