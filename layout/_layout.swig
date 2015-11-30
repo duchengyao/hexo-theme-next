@@ -67,5 +67,7 @@
   {% block comment_system %}{% endblock %}
   {% include '_scripts/baidushare.swig' %}
 
+  <script type="text/javascript" src="{{ url_for(theme.js) }}/random-title.js"></script>
+
 </body>
 </html>
