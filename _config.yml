@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "S1NH,程序员吐槽师"
+keywords: "S1NH, 程序员吐槽师, 益行游戏, 武汉理工大学, 鲸落乐队, Mental乐队"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -100,8 +100,8 @@ toc:
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
-#creative_commons: by-nc-sa
-creative_commons: by-sa
+creative_commons: by-nc-sa
+#creative_commons: by-sa
 
 
 # ---------------------------------------------------------------
