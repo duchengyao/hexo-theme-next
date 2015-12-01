@@ -30,6 +30,7 @@
   til[27] = "世界在旅程的尽头终结"
   til[28] = "扯着喉咙拼命的嘶吼着又苦涩的压抑着"
   til[29] = "微笑吧，就像我们说好的那样"
+  til[30] = "一怀愁绪，几年离索；怕人询问，咽泪装欢"
  
   var indextitle = Math.floor(Math.random() * til.length);      //获取一个随机整数
   onload=function chaTitle() {
